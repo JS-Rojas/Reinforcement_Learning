@@ -3,10 +3,12 @@ QLS_course &amp; ideas.
 🧠 Reinforcement Learning & Dopamine 💡
 This repository contains two 📓 Jupyter notebooks that replicate and explore key findings from foundational papers on the role of dopamine in reinforcement learning:
 
-🔬 Core Papers
+🔬 Core Papers:
+
 [1] Schultz, W., Dayan, P., & Montague, P. R. (1997)
 A neural substrate of prediction and reward — Science.
 👉 Notebook: RL_Single_Value_Dopamine.ipynb
+
 
 [2] Dabney, W., et al. (2020)
 A distributional code for value in dopamine-based reinforcement learning — Nature.
