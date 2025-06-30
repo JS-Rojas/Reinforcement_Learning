@@ -1,8 +1,8 @@
 # Reinforcement_Learning
 QLS_course &amp; ideas.
-🧠 Reinforcement Learning & Dopamine
+Reinforcement Learning & Dopamine
 
-This repository contains two 📓 Jupyter notebooks that replicate and explore key findings from foundational papers on the role of dopamine in reinforcement learning:
+This repository contains two Jupyter notebooks that replicate and explore key findings from foundational papers on the role of dopamine in reinforcement learning:
 
 🔬 Core Papers:
 
